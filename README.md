@@ -114,3 +114,4 @@ return 0;
 <img width="1917" height="735" alt="Screenshot 2026-10-26 102616" src="https://github.com/user-attachments/assets/dfe5019f-6e41-4934-948c-ab926e45b312" />
 
 ## RESULT
+The implementation of hill cipher substitution techniques using c program is successful.
